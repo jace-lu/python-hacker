@@ -93,3 +93,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
+    
+  #Run script on terminal by choosing path of the script> python3 nameofpythonscript.py -t email of person you want to send to -l your email -p password from your gmail's app password.
